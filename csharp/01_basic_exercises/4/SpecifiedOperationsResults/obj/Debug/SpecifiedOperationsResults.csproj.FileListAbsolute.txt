@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\4\SpecifiedOperationsResults\bin\Debug\SpecifiedOperationsResults.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\4\SpecifiedOperationsResults\bin\Debug\SpecifiedOperationsResults.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\4\SpecifiedOperationsResults\bin\Debug\SpecifiedOperationsResults.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\4\SpecifiedOperationsResults\obj\Debug\SpecifiedOperationsResults.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\4\SpecifiedOperationsResults\obj\Debug\SpecifiedOperationsResults.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\4\SpecifiedOperationsResults\obj\Debug\SpecifiedOperationsResults.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\4\SpecifiedOperationsResults\obj\Debug\SpecifiedOperationsResults.pdb

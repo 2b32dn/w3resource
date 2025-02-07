@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\14\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\14\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\14\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\14\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\14\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\14\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\14\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\1\PrintHelloAndName\bin\Debug\PrintHelloAndName.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\1\PrintHelloAndName\bin\Debug\PrintHelloAndName.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\1\PrintHelloAndName\bin\Debug\PrintHelloAndName.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\1\PrintHelloAndName\obj\Debug\PrintHelloAndName.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\1\PrintHelloAndName\obj\Debug\PrintHelloAndName.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\1\PrintHelloAndName\obj\Debug\PrintHelloAndName.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\1\PrintHelloAndName\obj\Debug\PrintHelloAndName.pdb

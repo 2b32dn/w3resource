@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dicks\\Documents\\projects\\w3resource\\csharp\\01_basic_exercises\\3\\DivideTwoNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEA4D48-C14D-41AD-BE1E-988B15BE8E35}|DivideTwoNumbers.csproj|c:\\users\\dicks\\documents\\projects\\w3resource\\csharp\\01_basic_exercises\\3\\dividetwonumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEA4D48-C14D-41AD-BE1E-988B15BE8E35}|DivideTwoNumbers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dicks\\Documents\\projects\\w3resource\\csharp\\01_basic_exercises\\3\\DivideTwoNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dicks\\Documents\\projects\\w3resource\\csharp\\01_basic_exercises\\3\\DivideTwoNumbers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T02:36:22.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

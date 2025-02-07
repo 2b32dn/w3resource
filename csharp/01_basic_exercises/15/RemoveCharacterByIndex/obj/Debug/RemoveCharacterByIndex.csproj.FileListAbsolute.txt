@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\15\RemoveCharacterByIndex\bin\Debug\RemoveCharacterByIndex.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\15\RemoveCharacterByIndex\bin\Debug\RemoveCharacterByIndex.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\15\RemoveCharacterByIndex\bin\Debug\RemoveCharacterByIndex.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\15\RemoveCharacterByIndex\obj\Debug\RemoveCharacterByIndex.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\15\RemoveCharacterByIndex\obj\Debug\RemoveCharacterByIndex.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\15\RemoveCharacterByIndex\obj\Debug\RemoveCharacterByIndex.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\15\RemoveCharacterByIndex\obj\Debug\RemoveCharacterByIndex.pdb

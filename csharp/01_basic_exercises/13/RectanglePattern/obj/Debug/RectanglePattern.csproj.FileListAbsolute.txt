@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\13\RectanglePattern\bin\Debug\RectanglePattern.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\13\RectanglePattern\bin\Debug\RectanglePattern.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\13\RectanglePattern\bin\Debug\RectanglePattern.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\13\RectanglePattern\obj\Debug\RectanglePattern.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\13\RectanglePattern\obj\Debug\RectanglePattern.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\13\RectanglePattern\obj\Debug\RectanglePattern.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\13\RectanglePattern\obj\Debug\RectanglePattern.pdb

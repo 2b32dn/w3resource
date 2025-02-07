@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\10\ThreeNumberFormula\bin\Debug\ThreeNumberFormula.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\10\ThreeNumberFormula\bin\Debug\ThreeNumberFormula.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\10\ThreeNumberFormula\bin\Debug\ThreeNumberFormula.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\10\ThreeNumberFormula\obj\Debug\ThreeNumberFormula.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\10\ThreeNumberFormula\obj\Debug\ThreeNumberFormula.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\10\ThreeNumberFormula\obj\Debug\ThreeNumberFormula.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\10\ThreeNumberFormula\obj\Debug\ThreeNumberFormula.pdb

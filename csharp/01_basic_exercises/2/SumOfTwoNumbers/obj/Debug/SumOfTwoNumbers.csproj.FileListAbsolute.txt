@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\2\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\2\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\2\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\2\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\2\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\2\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\2\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\9\AverageOfFourNumbers\bin\Debug\AverageOfFourNumbers.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\9\AverageOfFourNumbers\bin\Debug\AverageOfFourNumbers.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\9\AverageOfFourNumbers\bin\Debug\AverageOfFourNumbers.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\9\AverageOfFourNumbers\obj\Debug\AverageOfFourNumbers.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\9\AverageOfFourNumbers\obj\Debug\AverageOfFourNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\9\AverageOfFourNumbers\obj\Debug\AverageOfFourNumbers.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\9\AverageOfFourNumbers\obj\Debug\AverageOfFourNumbers.pdb

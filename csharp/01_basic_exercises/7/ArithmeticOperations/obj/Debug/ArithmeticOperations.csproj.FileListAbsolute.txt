@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\7\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\7\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\7\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\7\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\7\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\7\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\7\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb

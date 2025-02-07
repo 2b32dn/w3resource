@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\3\DivideTwoNumbers\bin\Debug\DivideTwoNumbers.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\3\DivideTwoNumbers\bin\Debug\DivideTwoNumbers.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\3\DivideTwoNumbers\bin\Debug\DivideTwoNumbers.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\3\DivideTwoNumbers\obj\Debug\DivideTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\3\DivideTwoNumbers\obj\Debug\DivideTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\3\DivideTwoNumbers\obj\Debug\DivideTwoNumbers.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\3\DivideTwoNumbers\obj\Debug\DivideTwoNumbers.pdb

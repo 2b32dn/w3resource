@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\12\RepeatedNumberInRows\bin\Debug\RepeatedNumberInRows.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\12\RepeatedNumberInRows\bin\Debug\RepeatedNumberInRows.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\12\RepeatedNumberInRows\bin\Debug\RepeatedNumberInRows.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\12\RepeatedNumberInRows\obj\Debug\RepeatedNumberInRows.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\12\RepeatedNumberInRows\obj\Debug\RepeatedNumberInRows.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\12\RepeatedNumberInRows\obj\Debug\RepeatedNumberInRows.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\12\RepeatedNumberInRows\obj\Debug\RepeatedNumberInRows.pdb

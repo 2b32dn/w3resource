@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\6\MultiplyThreeNumbers\bin\Debug\MultiplyThreeNumbers.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\6\MultiplyThreeNumbers\bin\Debug\MultiplyThreeNumbers.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\6\MultiplyThreeNumbers\bin\Debug\MultiplyThreeNumbers.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\6\MultiplyThreeNumbers\obj\Debug\MultiplyThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\6\MultiplyThreeNumbers\obj\Debug\MultiplyThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\6\MultiplyThreeNumbers\obj\Debug\MultiplyThreeNumbers.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\6\MultiplyThreeNumbers\obj\Debug\MultiplyThreeNumbers.pdb
