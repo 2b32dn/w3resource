@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\16\SwapFirstAndLastCharacters\bin\Debug\SwapFirstAndLastCharacters.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\16\SwapFirstAndLastCharacters\bin\Debug\SwapFirstAndLastCharacters.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\16\SwapFirstAndLastCharacters\bin\Debug\SwapFirstAndLastCharacters.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\16\SwapFirstAndLastCharacters\obj\Debug\SwapFirstAndLastCharacters.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\16\SwapFirstAndLastCharacters\obj\Debug\SwapFirstAndLastCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\16\SwapFirstAndLastCharacters\obj\Debug\SwapFirstAndLastCharacters.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\16\SwapFirstAndLastCharacters\obj\Debug\SwapFirstAndLastCharacters.pdb

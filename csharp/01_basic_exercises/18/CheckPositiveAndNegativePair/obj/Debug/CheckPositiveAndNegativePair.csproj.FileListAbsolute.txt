@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\18\CheckPositiveAndNegativePair\bin\Debug\CheckPositiveAndNegativePair.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\18\CheckPositiveAndNegativePair\bin\Debug\CheckPositiveAndNegativePair.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\18\CheckPositiveAndNegativePair\bin\Debug\CheckPositiveAndNegativePair.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\18\CheckPositiveAndNegativePair\obj\Debug\CheckPositiveAndNegativePair.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\18\CheckPositiveAndNegativePair\obj\Debug\CheckPositiveAndNegativePair.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\18\CheckPositiveAndNegativePair\obj\Debug\CheckPositiveAndNegativePair.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\18\CheckPositiveAndNegativePair\obj\Debug\CheckPositiveAndNegativePair.pdb

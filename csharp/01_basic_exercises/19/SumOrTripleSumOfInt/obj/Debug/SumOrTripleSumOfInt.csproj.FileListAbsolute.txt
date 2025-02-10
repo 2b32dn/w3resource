@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\19\SumOrTripleSumOfInt\bin\Debug\SumOrTripleSumOfInt.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\19\SumOrTripleSumOfInt\bin\Debug\SumOrTripleSumOfInt.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\19\SumOrTripleSumOfInt\bin\Debug\SumOrTripleSumOfInt.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\19\SumOrTripleSumOfInt\obj\Debug\SumOrTripleSumOfInt.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\19\SumOrTripleSumOfInt\obj\Debug\SumOrTripleSumOfInt.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\19\SumOrTripleSumOfInt\obj\Debug\SumOrTripleSumOfInt.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\19\SumOrTripleSumOfInt\obj\Debug\SumOrTripleSumOfInt.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\17\AddFirstCharacterFrontBack\bin\Debug\AddFirstCharacterFrontBack.exe.config
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\17\AddFirstCharacterFrontBack\bin\Debug\AddFirstCharacterFrontBack.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\17\AddFirstCharacterFrontBack\bin\Debug\AddFirstCharacterFrontBack.pdb
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\17\AddFirstCharacterFrontBack\obj\Debug\AddFirstCharacterFrontBack.csproj.AssemblyReference.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\17\AddFirstCharacterFrontBack\obj\Debug\AddFirstCharacterFrontBack.csproj.CoreCompileInputs.cache
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\17\AddFirstCharacterFrontBack\obj\Debug\AddFirstCharacterFrontBack.exe
+C:\Users\Dicks\Documents\projects\w3resource\csharp\01_basic_exercises\17\AddFirstCharacterFrontBack\obj\Debug\AddFirstCharacterFrontBack.pdb
